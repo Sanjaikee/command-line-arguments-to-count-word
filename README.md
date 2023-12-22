@@ -27,8 +27,8 @@ Use len() to find the total words.
 ## PROGRAM:
 ```
 Program for getting the word count from the contents of a file using command line arguments
-Developed by: BALAMURUGAN B
-Register Number: 212222230016
+Developed by: Sanjai S
+Register Number: 23003393
 
 import sys
 count = {}
@@ -43,7 +43,7 @@ print(count)
 f.close()
 ```
 ### OUTPUT:
-![5b](https://github.com/BALA291/command-line-arguments-to-count-word/assets/120717501/04175a22-50c1-4f4b-b92b-07a189e8ffbe)
+![image](https://github.com/Sanjaikee/command-line-arguments-to-count-word/assets/150231888/148ba64b-e084-46c9-ad33-b48a7470b616)
 ![5b file](https://github.com/BALA291/command-line-arguments-to-count-word/assets/120717501/6d7b4578-91c2-41a1-aee5-7e79604117db)
 ![5b out1](https://github.com/BALA291/command-line-arguments-to-count-word/assets/120717501/cc00e81e-b787-44e0-abc6-b800267c45bf)
 
